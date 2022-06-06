@@ -1,0 +1,41 @@
+<component name="libraryTable">
+  <library name="javaF">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../Java Libs/jfx/modules/javafx.base/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../Java Libs/jfx/modules/javafx.base/src/shims/java" />
+      <root url="file://$PROJECT_DIR$/../../Java Libs/jfx/modules/javafx.base/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../Java Libs/jfx/modules/javafx.controls/src/android/java" />
+      <root url="file://$PROJECT_DIR$/../../Java Libs/jfx/modules/javafx.controls/src/ios/java" />
+      <root url="file://$PROJECT_DIR$/../../Java Libs/jfx/modules/javafx.controls/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../Java Libs/jfx/modules/javafx.controls/src/shims/java" />
+      <root url="file://$PROJECT_DIR$/../../Java Libs/jfx/modules/javafx.controls/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../Java Libs/jfx/modules/javafx.fxml/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../Java Libs/jfx/modules/javafx.fxml/src/shims/java" />
+      <root url="file://$PROJECT_DIR$/../../Java Libs/jfx/modules/javafx.fxml/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../Java Libs/jfx/modules/javafx.graphics/src/android/java" />
+      <root url="file://$PROJECT_DIR$/../../Java Libs/jfx/modules/javafx.graphics/src/dalvik/java" />
+      <root url="file://$PROJECT_DIR$/../../Java Libs/jfx/modules/javafx.graphics/src/jslc/java" />
+      <root url="file://$PROJECT_DIR$/../../Java Libs/jfx/modules/javafx.graphics/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../Java Libs/jfx/modules/javafx.graphics/src/main/jsl-decora" />
+      <root url="file://$PROJECT_DIR$/../../Java Libs/jfx/modules/javafx.graphics/src/main/jsl-prism" />
+      <root url="file://$PROJECT_DIR$/../../Java Libs/jfx/modules/javafx.graphics/src/shims/java" />
+      <root url="file://$PROJECT_DIR$/../../Java Libs/jfx/modules/javafx.graphics/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../Java Libs/jfx/modules/javafx.graphics/src/test/jslc" />
+      <root url="file://$PROJECT_DIR$/../../Java Libs/jfx/modules/javafx.graphics/tools/font" />
+      <root url="file://$PROJECT_DIR$/../../Java Libs/jfx/modules/javafx.media/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../Java Libs/jfx/modules/javafx.media/src/tools/java" />
+      <root url="file://$PROJECT_DIR$/../../Java Libs/jfx/modules/javafx.swing/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../Java Libs/jfx/modules/javafx.swing/src/shims/java" />
+      <root url="file://$PROJECT_DIR$/../../Java Libs/jfx/modules/javafx.swt/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../Java Libs/jfx/modules/javafx.swt/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../Java Libs/jfx/modules/javafx.web/src/android/java" />
+      <root url="file://$PROJECT_DIR$/../../Java Libs/jfx/modules/javafx.web/src/ios/java" />
+      <root url="file://$PROJECT_DIR$/../../Java Libs/jfx/modules/javafx.web/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../Java Libs/jfx/modules/javafx.web/src/main/native/Source/WebCore/bindings/java/dom3/java" />
+      <root url="file://$PROJECT_DIR$/../../Java Libs/jfx/modules/javafx.web/src/shims/java" />
+      <root url="file://$PROJECT_DIR$/../../Java Libs/jfx/modules/javafx.web/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
