@@ -25,16 +25,12 @@ public class NotesExtractorCMD
 
     public static void main(String[] args) throws IOException
     {
-        test_getNotes();
+        filePath = getInputFilePath();
+        document = Loader.loadPDF(new File("C:\\Users\\elgar\\Documents\\test.pdf"));
+        maxPage = document.getNumberOfPages();
+        getInputIsMultiplePages();
 
-
-//      -----------------------------------------------------------
-//      filePath = getInputFilePath();
-//      document = Loader.loadPDF(new File("C:\\Users\\elgar\\Documents\\test.pdf"));
-//      maxPage = document.getNumberOfPages();
-//      getInputIsMultiplePages();
-
-/*      int pageStart = getInputPage(maxPage);
+        int pageStart = getInputPage(maxPage);
 
         if (isMultiplePages) {
             int pageEnd = getInputPage(maxPage,pageStart);
@@ -43,9 +39,8 @@ public class NotesExtractorCMD
         } else {
             getNotes(pageStart);
         }
-*/
 
-        //PDFTextStripper textStripper = new PDFTextStripper();
+        PDFTextStripper textStripper = new PDFTextStripper();
 
 
 
@@ -159,9 +154,13 @@ public class NotesExtractorCMD
 
 
     //  TODO: method documentation
-//  ======================================================================
-//                              getInputFilePath()
-//  ======================================================================
+/**  ======================================================================
+                                getInputFilePath()
+    ======================================================================
+ *      --
+ *      --
+ */
+
     public static String getInputFilePath()
     {
         String filePath = "";
